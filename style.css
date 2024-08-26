@@ -253,6 +253,7 @@ input[type='checkbox']:focus+.agree_check label::before {
   font-size: 20px;
   font-weight: 600;
   line-height: 30px;
+  padding-bottom: 5px;
 }
 
 .agree_ckeck_btn {
